@@ -40,7 +40,7 @@ Wiki page: [M827](../../../../PAGES/M827.md)
 - **Title block:** (142, 18)–(413, 69) mm: ISS MMOD  [CKD: · USEDON · MATL · WBS · WARD-BECK SYSTEMS LTD:. · DRN SP · DATE · noV 72 · M827 · FINISH · POWER SUPPLX · CKD · SCHEMATIC · SCALE · 827-02 001 · ISS_ · TOLS
 - **Wiring (first pass):** 115 connected wire groups from 317 runs, 2 dotted junctions; labelled ends: 200 mm → iOK sw, C4, 9300, 40v; 194 mm → 1,2, 033, 400v; 175 mm → C3, 9300, 990-5, C4; 117 mm → iOK sw, 2A, C3, 9300; 63 mm → c2, 2oov, A;J
 
-Every curve, box, word and wire group: [1972 - 827-02-001 - POWER SUPPLY SCHEMATIC - DRN GP - ISS 1 (traced).json](../SCHEMATICS/1972%20-%20827-02-001%20-%20POWER%20SUPPLY%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%201%20(traced).json) (the CAD file: `1972 - 827-02-001 - POWER SUPPLY SCHEMATIC - DRN GP - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1972 - 827-02-001 - POWER SUPPLY SCHEMATIC - DRN GP - ISS 1 (traced).json](../SCHEMATICS/1972%20-%20827-02-001%20-%20POWER%20SUPPLY%20SCHEMATIC%20-%20DRN%20GP%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1972 - 827-02-001 - POWER SUPPLY SCHEMATIC - DRN GP - ISS 1 (traced).dxf`).
 
 ## Full text
 
